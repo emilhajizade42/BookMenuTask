@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\obj\Debug\netcoreapp3.1\BookMenuTask.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\obj\Debug\netcoreapp3.1\BookMenuTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\obj\Debug\netcoreapp3.1\BookMenuTask.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\obj\Debug\netcoreapp3.1\BookMenuTask.AssemblyInfo.cs
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\obj\Debug\netcoreapp3.1\BookMenuTask.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\bin\Debug\netcoreapp3.1\BookMenuTask.exe
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\bin\Debug\netcoreapp3.1\BookMenuTask.deps.json
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\bin\Debug\netcoreapp3.1\BookMenuTask.runtimeconfig.json
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\bin\Debug\netcoreapp3.1\BookMenuTask.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\bin\Debug\netcoreapp3.1\BookMenuTask.dll
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\bin\Debug\netcoreapp3.1\BookMenuTask.pdb
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\obj\Debug\netcoreapp3.1\BookMenuTask.dll
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\obj\Debug\netcoreapp3.1\BookMenuTask.pdb
+C:\Users\emil code\Desktop\c# experments\BookMenuTask\BookMenuTask\obj\Debug\netcoreapp3.1\BookMenuTask.genruntimeconfig.cache
